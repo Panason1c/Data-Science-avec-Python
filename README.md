@@ -4,21 +4,6 @@
 
 ---
 
-## Structure du projet
-
-```
-projet_finale/
-├── EDA.ipynb                 # Analyse exploratoire des données
-├── preprocessing.ipynb       # Preprocessing + modèles + sauvegarde
-├── fraudTrain.csv            # Dataset (à télécharger sur Kaggle)
-└── api/
-    ├── main.py               # API FastAPI
-    ├── model.pkl             # Modèle entraîné (généré par le notebook)
-    └── requirements.txt      # Dépendances Python
-```
-
----
-
 ## Dataset
 
 Télécharger le fichier **fraudTrain.csv** depuis Kaggle :
