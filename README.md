@@ -120,16 +120,6 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 | Supervisé | Random Forest | Robuste, non-linéaire, importance des features |
 | Non supervisé | K-Means (k=4) | Segmentation comportementale des transactions |
 
----
-
-## Métriques du modèle
-
-| Métrique | Valeur |
-|---|---|
-| AUC-ROC | ~0.97 |
-| Precision (fraude) | ~0.85 |
-| Recall (fraude) | ~0.80 |
-| F1-score (fraude) | ~0.82 |
 
 ---
 
