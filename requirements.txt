@@ -1,16 +1,16 @@
 # API
-fastapi==0.111.0
-uvicorn==0.30.1
-pydantic==2.7.1
+fastapi
+uvicorn
+pydantic
 
 # Machine Learning
-scikit-learn==1.4.2
-imbalanced-learn==0.12.3
+scikit-learn
+imbalanced-learn
 
 # Data
-numpy==1.26.4
-pandas==2.2.2
+numpy
+pandas
 
 # Visualisation (notebook uniquement)
-matplotlib==3.8.4
-seaborn==0.13.2
+matplotlib
+seaborn
