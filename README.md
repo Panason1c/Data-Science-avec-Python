@@ -24,8 +24,9 @@ pip install -r requirements.txt
 
 ### Étape 2 — Générer le modèle
 
-Ouvrir et exécuter toutes les cellules de `preprocessing.ipynb`.  
-Le fichier `model.pkl` sera automatiquement sauvegardé dans le dossier `api/`.
+Ouvrir et exécuter toutes les cellules de `EDA.ipynb`.  
+Le fichier `model.pkl` sera automatiquement créer dans le dossier `api/`
+Car le ficher est trop lourd pour github
 
 ### Étape 3 — Lancer l'API
 
