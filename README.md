@@ -8,7 +8,7 @@
 
 Télécharger le fichier **fraudTrain.csv** depuis Kaggle :
 
-🔗 [Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv)
+[Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data?select=fraudTrain.csv)
 
 Placer le fichier `fraudTrain.csv` au même niveau que `EDA.ipynb`.
 
